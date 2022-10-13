@@ -83,10 +83,7 @@ INITIAL POSITION:
 
 FINAL POSITION:
 ![final](/final.png)
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ## MobileRobot Movement Video:
 
