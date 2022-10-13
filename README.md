@@ -79,10 +79,10 @@ if __name__ == '__main__':
 ## MobileRobot Movement Image:
 
 INITIAL POSITION:
-![initial](/initial.png)
+![output](/initial.png)
 
 FINAL POSITION:
-![final](/final.png)
+![output](/final.png)
 
 
 ## MobileRobot Movement Video:
