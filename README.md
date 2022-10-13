@@ -93,17 +93,8 @@ FINAL POSITION:
 https://youtube.com/shorts/t8nVyGZvT7w?feature=share 
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
-
-
-<br/>
-<br/>
 
 ```
 Mobile Robotics Laboratory
